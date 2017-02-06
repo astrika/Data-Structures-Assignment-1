@@ -16,6 +16,11 @@ Contains the program logic for determining whether
  Because two binary searches were used to search through 2 sub arrays, the complexity
  of this algorithm is log n.
  
+# To compile and run:
+javac ProblemOne.java
+
+java ProblemOne
+ 
 # Problem 2:
  Given an array, returns its balance index (any) or -1
  if no balance index exists.
@@ -26,6 +31,11 @@ Contains the program logic for determining whether
 
 Because two for loops are run, each of complexity n (given their size), the
  complexity of this algorithm is O(n)
+ 
+# To compile and run:
+javac ProblemTwo.java
+
+java ProblemTwo
 
 # Problem 3:
 Given a sorted array with possible duplicate elements,
@@ -37,4 +47,8 @@ Given a sorted array with possible duplicate elements,
  
  Because linear search is done with one for loop, of complexity n (given its size), the
  complexity of this algorithm is O(n)
- 
+
+# To compile and run:
+javac ProblemThree.java
+
+java ProblemThree
