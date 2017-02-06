@@ -14,7 +14,7 @@ Contains the program logic for determining whether
  T(n) = 2logn + C
  
  Because two binary searches were used to search through 2 sub arrays, the complexity
- of this algorithm is log n.Running Time: O(log n)
+ of this algorithm is log n.
  
 # Problem 2:
  Given an array, returns its balance index (any) or -1
